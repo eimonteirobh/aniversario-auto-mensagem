@@ -1,0 +1,10 @@
+aniversario-auto-mensagem/
+├── client/
+│   ├── package.json
+│   └── src/
+│       └── App.jsx
+├── server/
+│   ├── package.json
+│   └── server.js
+├── railway.json
+└── README.md
